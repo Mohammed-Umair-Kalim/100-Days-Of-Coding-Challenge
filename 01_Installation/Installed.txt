@@ -1,0 +1,7 @@
+Node: Installed
+
+Vs code: Installed
+
+Git: Installed
+
+Typescript: Installed
