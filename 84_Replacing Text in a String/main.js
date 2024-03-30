@@ -9,5 +9,5 @@
 function replacing(word) {
     console.log(word.replace("JavaScript", "TypeScript"));
 }
-// this function is replacing "JavaScript" to "TypeScript":
+// this function is replacing "JavaScript" with "TypeScript":
 replacing("\nJavaScript");
